@@ -1,4 +1,4 @@
-public class LIDAR
+public class LidarBenDor
 {
 	public static void main(String[] args)
 	{
