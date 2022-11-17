@@ -4,7 +4,7 @@ public class LidarBenDor
 	{
 		for(int i=1; i<=10; i++)
 		{
-			System.out.println("Lidar Ben-Dor :)"+i);
+			System.out.println("Lidar Ben - Dor :)"+i);
 		}
 	}
 }
